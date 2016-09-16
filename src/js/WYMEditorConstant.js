@@ -1,6 +1,6 @@
 angular.module('app').constant('WYM_EDITOR_OPTIONS', {
 	skin: 'compact',
-	iframeBasePath: '../bower_components/wymeditor/iframe/pretty/',
+	iframeBasePath: '../bower_components/wymeditor/dist/wymeditor/iframe/pretty/',
 	logoHtml: '',
 	containersHtml: '',
 	classesHtml: ''
